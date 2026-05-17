@@ -18,7 +18,7 @@ while True:
     chat_history.append( HumanMessage(content=user_input))
 
 
-     user_input == "exit":
+    if user_input == "exit":
         print("Exiting the chatbot. Goodbye!")
         break
 
