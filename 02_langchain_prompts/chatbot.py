@@ -1,6 +1,6 @@
 from langchain_huggingface import ChatHuggingFace, HuggingFaceEndpoint
 from langchain_core.messages import SystemMessage, HumanMessage, AIMessage
-from dotenv import load_doten
+from dotenv import load_dotenv
 
 load_dotenv()
 
