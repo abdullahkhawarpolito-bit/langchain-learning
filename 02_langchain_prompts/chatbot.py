@@ -9,7 +9,7 @@ llm = HuggingFaceEndpoint(
 )
 
 model = ChatHuggingFace(llm=llm)
-chat_history=
+chat_history=[
     SystemMessage(content="You are a helpful assistant.")
 ]
 
