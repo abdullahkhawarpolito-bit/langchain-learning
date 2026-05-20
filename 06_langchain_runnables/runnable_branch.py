@@ -4,7 +4,7 @@ from langchain_core.output_parsers import StrOutputParser
 from dotenv import load_dotenv
 from langchain_core.runnables import RunnableSequence, RunnableParallel, RunnablePassthrough, RunnableBranch, RunnableLambda
 
-load_dotenv()
+load_dotenv(
 
 prompt1 = PromptTemplate(
     template='Write a detailed report on {topic}',
