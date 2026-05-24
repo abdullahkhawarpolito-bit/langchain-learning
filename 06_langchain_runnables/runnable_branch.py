@@ -32,4 +32,4 @@ final_chain = RunnableSequence(report_gen_chain, branch_chain)
 print(final_chain.invoke({'topic':'Russia vs Ukraine'}))
 
 
-,
+
