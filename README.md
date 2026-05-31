@@ -117,4 +117,4 @@ The following topics will be added progressively as part of the roadmap:
 
 Abdullah Khawar
 
-Aspiring AI/ML Engineer | GenAI & LLMs | LangChain | RAG | Vector Databases
+Aspiring AI/ML Engineer | GenAI & LLMs | LangChain | RAG | Vector Database
