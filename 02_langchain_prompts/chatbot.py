@@ -28,3 +28,4 @@ while True:
     print(f"Chatbot: {result.content}")
 
 print(chat_history)
+.
