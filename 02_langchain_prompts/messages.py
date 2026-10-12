@@ -8,4 +8,4 @@ llm = HuggingFaceEndpoint(
     repo_id="deepseek-ai/DeepSeek-V4-Flash",
 )
 
-model = ChatHuggingFace(llm=llm)
+model = ChatHuggingFace(llm=llm),,,
