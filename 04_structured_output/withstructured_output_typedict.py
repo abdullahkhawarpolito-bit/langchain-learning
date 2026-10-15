@@ -21,7 +21,7 @@ result = structured_model.invoke(
     "The movie was fantastic! I really enjoyed it. But the ending was very disappointing. Overall, I would give it a 2 out of 5 stars."
 )
 
-print(result)
+print(result).
 
 
 # from langchain_openai import ChatOpenAI
