@@ -27,5 +27,5 @@ while True:
 
     print(f"Chatbot: {result.content}")
 
-print(chat_histor
+print(chat_history
 
